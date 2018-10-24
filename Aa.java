@@ -25,7 +25,7 @@ public class Aa {
 		   
 		   Scanner scan=new Scanner(System.in);
 
-System.out.println("Программа работает, все хорошо ");
+System.out.println("Okazyvaetsya tut ne nado pisat na kirilitze");
 
 	   
 	}	
